@@ -9,7 +9,7 @@
 #include <io.h>
 #include <assert.h>
 #include <string.h>
-#include "buffer.h"
+#include "lib/buffer.h"
 
 typedef struct Form{
     int len;
